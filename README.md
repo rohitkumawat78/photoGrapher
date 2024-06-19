@@ -1,1 +1,1 @@
-# photoGrapher
+# photoGrapher's UI/UX
